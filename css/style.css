@@ -1,0 +1,63 @@
+[class^="col-"]{
+  height: 100%;
+  /*background-color: red;*/
+  /*border: 1px solid black;*/
+  float: left;
+  text-align: center;
+  /*line-height: 100%;*/
+
+}
+
+.green{
+  background-color: green;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.black{
+  background-color: black;
+}
+
+img{
+  height: 100%;
+}
+
+.brick{
+  background-image: url("https://i.pinimg.com/originals/76/2a/62/762a622e30d20d69077908208140b3ce.png");
+  /*background-position: center;*/
+  background-size: contain;
+  /*background-repeat: no-repeat;*/
+}
+
+.ground{
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallpaper-games-maker.com%2Fimages%2Fmini%2F150%2Fsuper-mario-run%2Fground2.png&f=1&nofb=1");
+  background-size: contain;
+
+}
+
+.mario{
+  background-image: url("http://pixelartmaker.com/art/520c9287488f9a1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.coins{
+  background-image: url("http://pixelartmaker.com/art/c3d18570de89dd0.png");
+  background-size: contain;
+  
+}
+
+.container{
+
+  background-image: url("https://i.ytimg.com/vi/_D8A4fMH_AQ/maxresdefault.jpg");
+  /*background-position: center;*/
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
